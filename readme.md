@@ -1,4 +1,4 @@
-# Fruit Quality Check using Image Segmentation with Amazon SageMaker deployment
+# Fruit Quality Check using UNet Image Segmentation with Amazon SageMaker deployment
 
 ## Overview
 
