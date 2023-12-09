@@ -1,4 +1,4 @@
-# Fruit Quality Check using UNet Image Segmentation with Amazon SageMaker deployment
+# Fruit Quality using UNet Image Segmentation and AWS SageMaker deployment
 
 ## Overview
 
@@ -47,17 +47,5 @@ The dataset contains images of rotten apples with annotated areas of rot. These 
 4. **Sagemaker_Deployment**: Contains files related to deployment.
 5. **requirements.txt**: Lists all required libraries with respective versions. Install them using the command `pip install -r requirements.txt`.
 6. **Readme.md**: Provides instructions for running the code.
-
----
-
-## Key Concepts Explored
-
-1. Image segmentation
-2. Semantic segmentation and instance segmentation
-3. UNet model architecture
-4. Notebook instance in SageMaker
-5. S3 bucket
-6. Patchify the images for segmentation
-7. Deploying a model on SageMaker.
 
 ---
